@@ -97,5 +97,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - [ReqRes API](https://reqres.in/) for providing the test API
-- Contect me for login credentials(pawneshk22@gmail.com)
+- User login credentials
+    Email : eve.holt@reqres.in
+    Password : cityslicka
 - All contributors who have helped shape this project
