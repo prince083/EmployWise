@@ -98,13 +98,13 @@ const AddUserForm = ({ onClose, onAdd }) => {
             <button
               type="button"
               onClick={onClose}
-              className="bg-gray-400 text-white px-4 py-2 mr-2"
+              className="px-6 py-2 rounded-lg text-white font-semibold shadow-md bg-gradient-to-r from-gray-400 to-gray-600 hover:from-gray-500 hover:to-gray-700"
             >
               Cancel
             </button>
             <button
               type="submit"
-              className="bg-blue-500 text-white px-4 py-2"
+              className="px-6 py-2 rounded-lg text-white font-semibold shadow-md bg-gradient-to-r from-pink-400 to-purple-500 hover:from-pink-500 hover:to-purple-600"
             >
               Add
             </button>
